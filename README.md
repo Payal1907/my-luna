@@ -5,11 +5,11 @@
 ---
 | Landing Page | LunaCycle Tracker |
 |--------------|-------------------|
-| ![Landing](landing.png) | ![Tracker](Tracker.png) |
+| ![Landing](landing.PNG) | ![Tracker](Tracker.PNG) |
 
 | MyLoom Diary | Devi Chatbot |
 |--------------|--------------|
-| ![Diary](Diary.png) | ![Devi](Devi.png) |
+| ![Diary](Diary.PNG) | ![Devi](Devi.PNG) |
 
 ## 💡 Features
 
