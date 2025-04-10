@@ -13,6 +13,7 @@
 | ![Diary](Diary.png) | ![Devi](Devi.png) |
 
 ## 💡 Features
+![Dashboard Preview](./Dashboard.png)
 
 ### 🌸 LunaCycle – Period Tracker
 - Predicts upcoming periods and fertile windows
