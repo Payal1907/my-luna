@@ -3,12 +3,12 @@
 **MyLuna** is your intelligent period wellness companion — designed to support users with **cycle tracking**, **emotional journaling**, and **AI-powered health guidance**. From predicting periods to managing mood swings and chatting with Devi, your personalized assistant, MyLuna makes menstrual and emotional wellness simple, smart, and empowering.
 
 ---
+![Landing](Dashboard.png)
+
 | Landing Page | LunaCycle Tracker |
 |--------------|-------------------|
 | ![Landing](landing.png) | ![Tracker](Tracker.png) |
-|          Dashboard               |
-|----------------------------------|
-| ![Dashboard](Dashboard.png)|
+
 | MyLoom Diary | Devi Chatbot |
 |--------------|--------------|
 | ![Diary](Diary.png) | ![Devi](Devi.png) |
