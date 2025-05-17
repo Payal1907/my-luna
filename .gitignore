@@ -4,12 +4,7 @@ node_modules/
 # Environment variables
 .env
 
-# Logs
-*.log
 
-# Optional OS-specific files
-.DS_Store
-Thumbs.db
 Dashboard.png
 Devi.png
 Diary.png
