@@ -2,7 +2,7 @@
 /server/node_modules
 
 # Environment variables
-/server/.env
+.env
 
 /Dashboard.png
 /Devi.png
