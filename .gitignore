@@ -1,8 +1,8 @@
 # Node modules
-server/node_modules
+/server/node_modules
 
 # Environment variables
-server/.env
+/server/.env
 
 Dashboard.png
 Devi.png
